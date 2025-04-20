@@ -1,0 +1,1 @@
+{ "tables": ["users", "sessions", "blueprints", "flows", "executions", "tokens"] }
